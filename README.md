@@ -24,8 +24,8 @@ This project aims to develop a **scalable, AI-driven operating room (OR) schedul
 - AI-powered shift recommendations
 
 ## **Current Deliverables**
-- **Entity-Relationship Diagram (ERD)** 📥
-- **SQL Schema for Database Structure** 📥
+[- **Entity-Relationship Diagram (ERD)**]('https://dbdiagram.io/e/67bfc345263d6cf9a09a6bdc/67bfca8d263d6cf9a09b0221')
+- **SQL Schema for Database Structure** 
 
 ## **How to Contribute**
 1. **Fork & Clone** the repository
